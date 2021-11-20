@@ -27,10 +27,10 @@ If we use lambda resources inside terraform, terraform becomes imperative restri
 ## Terraform Commands
 Once desired state is defined, terraform executes the following commands (usually defined in CI) :
 
-Refresh - query infrastructure provider to get current state
-Plan - create execution plan
-Apply - Execute the plan
-Destroy - Destroy resources/ infrastructure in defined order
+1. Refresh - query infrastructure provider to get current state
+2. Plan - create execution plan
+3. Apply - Execute the plan
+4. Destroy - Destroy resources/ infrastructure in defined order
 
 
 
