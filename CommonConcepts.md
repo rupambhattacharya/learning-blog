@@ -15,6 +15,5 @@ While loop is used when we want to execute until some point and then stop.
 
 ## Modulo 
 
-Modulo is the reminder after division.
-For example : 5%10 = 5 (remainder)
-10%10 = 0
+Modulo is the remainder after division.
+For example : 5%10 = 5, 10%10 = 0
